@@ -4,8 +4,7 @@
 	"description":"learning how to edit package-json",
 	"keywords":["freecodecamp","learn package.json"],
 	"dependencies": {
-		"express": "^4.14.0",
-		"Moment": "^2.14.0" 
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
